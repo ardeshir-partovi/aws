@@ -5,8 +5,6 @@
 
 NOTE Environment variables override configuration files.
 
-https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
-
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html
 
 
